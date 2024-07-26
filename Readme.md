@@ -1,12 +1,14 @@
 # Learning of Generalizable and Interpretable Knowledge in Grid-Based Reinforcement Learning Environments
 
 Published at [AIIDE-23](https://sites.google.com/view/aiide-2023/home?authuser=0)
+
 Paper: https://ojs.aaai.org/index.php/AIIDE/article/view/27516
 
 
 Since DreamCoder is pretty hard to run since some packages for ocaml are depreceated and also the hardware resources are quite high, I have an updated method using Genetic Programming with Library Learning. See this links for more information: 
 
 Repo: https://github.com/ManuelEberhardinger/unveiling-rl-with-gp.git
+
 Paper: https://arxiv.org/abs/2407.14714
 
 
